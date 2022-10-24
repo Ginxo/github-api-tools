@@ -1,0 +1,25 @@
+{
+  "name": "@ginxo/github-api-tools",
+  "version": "0.0.1",
+  "description": "a bunch of tools to make github API retrieval a bit eaiser ",
+  "bin": {
+    "github-api-tools": "./index.js"
+  },
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "keywords": [
+    "github",
+    "hooks",
+    "owner"
+  ],
+  "author": "Enrique Mingorance Cano <emingora@redhat.com>",
+  "license": "Apache-2.0",
+  "dependencies": {
+    "@octokit/rest": "^19.0.5",
+    "commander": "^9.4.1",
+    "dotenv": "^16.0.3",
+    "octokit": "^2.0.9"
+  }
+}
