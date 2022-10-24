@@ -12,7 +12,8 @@
   "keywords": [
     "github",
     "hooks",
-    "owner"
+    "owner",
+    "deliveries"
   ],
   "author": "Enrique Mingorance Cano <emingora@redhat.com>",
   "license": "Apache-2.0",
